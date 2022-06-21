@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GST Calculator</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="title_calculator">Calculator</string>
+    <string name="title_invoices">Invoices</string>
+    <string name="title_store">Store</string>
+</resources>
